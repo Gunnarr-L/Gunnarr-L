@@ -1,6 +1,6 @@
-<h1>Hey guys, i'm Luiz Felipe<h1/>
+# ✨Hey guys, i'm Luiz Felipe✨
 
-  ## Alura's Student
+# Alura's Student
 
 ## 📓 I'm always learning 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width = "40" height = "40"/> 
